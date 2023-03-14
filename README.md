@@ -50,3 +50,6 @@ Lack of data results in poor model performance. We are quite optimistic if the t
 larger, the model can predict the label well. Pseudo labeling is quite helpful in this
 overcome the problem of training data, but overcome it in full. Human intervention
 still needed for such cases.
+
+## Credit
+case study take from University of Indonesia Teams
